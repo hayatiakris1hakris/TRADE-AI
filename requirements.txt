@@ -1,0 +1,9 @@
+aiohttp
+ccxt
+pandas
+numpy
+scikit-learn
+telethon
+joblib 
+
+pip install telethon aiohttp ccxt pandas numpy scikit-learn joblib

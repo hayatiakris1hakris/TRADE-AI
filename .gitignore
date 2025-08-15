@@ -1,0 +1,7 @@
+.env
+*.env
+logs/*
+models/*.joblib
+__pycache__/
+*.pyc
+sessions/*.session
