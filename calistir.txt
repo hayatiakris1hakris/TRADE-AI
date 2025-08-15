@@ -1,1 +1,4 @@
+YENİ SOHBET AÇINCA 
+“Repo: https://github.com//TRADE-AI. Lütfen ProjectContext.md ve README.md’yi bağlam olarak kullan. Şu değişiklikleri yapalım: …”
+
 python -m scripts.pull_and_log_once.py

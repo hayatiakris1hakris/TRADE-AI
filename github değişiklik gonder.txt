@@ -1,0 +1,4 @@
+PowerShell:
+git add -A
+git commit -m "Açıklayıcı mesaj: örn closed-bar log fix"
+git push
